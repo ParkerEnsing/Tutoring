@@ -9,7 +9,7 @@
 5. List the restricted value (RV) and solve: $$\frac{10}{x - 8} + 5 = \frac{5}{x - 8}$$
 6. Solve for $c$: $$\frac{1}{a} + \frac{1}{b} = \frac{1}{c}$$
 7. Solve for $x$ and $y$: $$x + 9y = 11$$ $$-5x + 8y = -2$$
-8. There are 24 more sophmores than juniors in an algebra class. If there are 68 students in this class, find the number of sophomores and the number of juniors in the class.
+8. There are 24 more sophomores than juniors in an algebra class. If there are 68 students in this class, find the number of sophomores and the number of juniors in the class.
 9. $\frac{6 + 3i}{5 + 2i}$
 10. $(-9 + \sqrt{-4})^2$
 11. Use the quadratic formula to solve $2x^2 - 9x = 5$
