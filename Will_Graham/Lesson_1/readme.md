@@ -3,7 +3,7 @@
 
 ## Problems ##
 1. Find the $x$ and $y$ intercepts from the graph.
-2. Find the slope and $y$-intercept. Graph the line.
+2. Find the slope and $y$-intercept: $y = -\frac{1}{2}x + 3$. Graph the line.
 3. Find an equation for a line that passes through $(6, 2)$ and $(8, 5)$ in *slope intercept* and *point-slope form*.
 4. Solve for $x$: $$\frac{x + 8}{4} = \frac{9}{4} - \frac{x - 1}{2}$$
 5. List the restricted value (RV) and solve: $$\frac{10}{x - 8} + 5 = \frac{5}{x - 8}$$
